@@ -573,6 +573,9 @@ h6 {
   opacity: 1;
   bottom: 15px;
 }
+.scroll-top {
+  display: none !important;
+}
 
 /*--------------------------------------------------------------
 # Disable aos animation delay on mobile devices
